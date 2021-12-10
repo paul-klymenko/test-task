@@ -15,3 +15,5 @@ This file can have 15-20 million hashes.
 Write a Rest API server in python, choosing any suitable web library for implementation, which receives in json list of hashes and returns list of hashes that in the file.
 
 Choose implementation which will work in the fastest way though think about memory efficient one to discuss.
+
+Result should be provided as a link to GitHub repository with setup instructions.
